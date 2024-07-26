@@ -30,6 +30,9 @@ submitted fixes (no wipe):
 18201680611 made by Roblox_Leo2510 - add Rainbow 2 as a bonus
 18627459399 bhop_failure fixed by Roblox_Leo2510 - add bonus
 
+submitted fixes (manually delete times using trigger skip):
+18665777291 bhop_ares fixed by rrrrinq - fix a trigger skip
+
 add map data:
 
 tested, pending upload & add map data:
